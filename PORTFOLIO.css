@@ -1,0 +1,20 @@
+.left{
+    left:0;
+    background-color:powderblue;
+    padding-top: 100px;
+}
+.right{
+    right:0;
+    background-color:pink;
+    overflow-y: scroll;
+    font-family:comic sans MS;
+}
+.split{
+    height:100%;
+    width:50%;
+    top:0;
+    position:fixed;
+}
+.centered{
+    text-align:center;
+}
